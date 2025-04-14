@@ -8,7 +8,7 @@
 
 ## Превью проекта
 
-![Превью лендинга Outsmart](./images/preview.jpg)
+![Превью лендинга Outsmart](./images/preview.JPG)
 
 ## Ссылка на демо
 
