@@ -55,7 +55,7 @@
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/outsmart-landing.git
+   git clone https://github.com/kirill-io/outsmart.git
 
    ```
 
